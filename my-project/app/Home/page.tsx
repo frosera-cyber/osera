@@ -59,7 +59,7 @@ export default function Home() {
 
       {/* Footer */}
       <footer className="border-t border-slate-800 py-6 text-center text-sm text-slate-500">
-        © {new Date().getFullYear()} Franzen Osera. Built with Next.js &amp; Tailwind CSS.
+        © 2026 Franzen Osera. Built with Next.js &amp; Tailwind CSS.
       </footer>
     </div>
   );
