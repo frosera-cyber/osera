@@ -196,7 +196,7 @@ export default function HomePage() {
 
         {/* Footer */}
         <footer className="border-t border-slate-800 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-sm text-slate-500">
-          <p>© {new Date().getFullYear()} Franzen Osera. All rights reserved.</p>
+          <p>© 2026 Franzen Osera. All rights reserved.</p>
           <div className="flex gap-6">
             <Link href="/about" className="hover:text-slate-300 transition">
               About
